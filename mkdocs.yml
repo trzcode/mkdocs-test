@@ -3,6 +3,6 @@ nav:
   - home: index.md
   - about: about.md
 theme:
-  name: readthedocs
+  name: mkdocs
   color_mode: auto
   color_mode_toggle: true
