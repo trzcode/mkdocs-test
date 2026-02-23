@@ -1,0 +1,4 @@
+site_name: MKDocs Pages test
+nav:
+  - home: index.md
+  - about: about.md
